@@ -68,8 +68,8 @@ publishing {
 
 dependencies {
     compileOnly "org.spigotmc:spigot:1.16.5"
-    runtimeOnly "skywolf46:extrautility-core:2.2.3"
-    include "skywolf46:extrautility-core:2.2.3"
+    runtimeOnly "skywolf46:extrautility-core:2.5.0"
+    include "skywolf46:extrautility-core:2.5.0"
     include group: 'org.jetbrains.kotlin', name: 'kotlin-reflect'
     include group: "io.github.classgraph", name: 'classgraph', version: '4.8.126'
     testImplementation('org.junit.jupiter:junit-jupiter-engine:5.8.2')
